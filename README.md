@@ -17,6 +17,7 @@ Samsung Galaxy Watch weather widgets sometimes stop updating automatically. This
 Releases are available in the [GitHub Releases](https://github.com/kmod-midori/GalaxyWatchWeatherFix/releases) section.
 
 ## Requirements
-
 - Samsung Galaxy Watch running Wear OS
 - Android 14 (API 34) or later
+- Enable "Allow background activities" for this app, and click "Schedule alarm" upon installation
+  - The alarm will be automatically scheduled in subsequent boots
